@@ -65,7 +65,7 @@ I build production-ready web applications with real-time features, REST APIs, an
 > conversational CV builder, AI enhancement via Claude API, 
 > Paystack payments, weighted job matching, and email delivery.
 
-[![Live App](https://img.shields.io/badge/Live%20App-cvpadi.vercel.app-C9A84C?style=flat-square&logo=vercel)](https://cvpadi.vercel.app)
+[![Live App](https://img.shields.io/badge/Live%20App-cvpadi.vercel.app-C9A84C?style=flat-square&logo=vercel)](https://cvpadi.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CVpadi-1A0A2E?style=flat-square&logo=github)](https://github.com/Eldren-cmd/CVpadi)
 
 ---
