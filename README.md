@@ -59,6 +59,25 @@ I build production-ready web applications with real-time features, REST APIs, an
 
 ---
 
+### 📄 [CVPadi — AI CV Builder SaaS](https://cvpadi.com)
+
+> A full-stack SaaS platform for Nigerian professionals — 
+> conversational CV builder, AI enhancement via Claude API, 
+> Paystack payments, weighted job matching, and email delivery.
+
+[![Live App](https://img.shields.io/badge/Live%20App-cvpadi.vercel.app-C9A84C?style=flat-square&logo=vercel)](https://cvpadi.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-CVpadi-1A0A2E?style=flat-square&logo=github)](https://github.com/Eldren-cmd/CVpadi)
+
+---
+
+## 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-D4A843?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
